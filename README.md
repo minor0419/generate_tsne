@@ -2,7 +2,7 @@
 json files and movie files convert to the t-sne figures
 ***
 This repository is a copy of the following repository, so please follow the repository below for usage.
-The only file unique to this repository is 'generate.py'.
+The only file unique to this repository is 'generate_tsne.py'.
 
 https://github.com/v-iashin/video_features
 ***
