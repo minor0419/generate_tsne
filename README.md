@@ -1,2 +1,2 @@
 # generate_tsne
-json and movie file convert to the s-sne figures
+json files and movies files convert to the s-sne figures
