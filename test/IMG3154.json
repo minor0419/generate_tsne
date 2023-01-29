@@ -1,5 +1,5 @@
 {
-    "area_0001":{
+    "anno_0001":{
         "annotations":{
             "label":"walking",
             "segments":[
@@ -27,7 +27,7 @@
         "subset":"train",
         "url":"IMG3154.mp4"
     },
-    "area_0002":{
+    "anno_0002":{
         "annotations":{
             "label":"exit",
             "segments":[
@@ -55,7 +55,7 @@
         "subset":"train",
         "url":"IMG3154.mp4"
     },
-    "area_0003":{
+    "anno_0003":{
         "annotations":{
             "label":"enter",
             "segments":[
@@ -83,7 +83,7 @@
         "subset":"train",
         "url":"IMG3154.mp4"
     },
-    "area_0004":{
+    "anno_0004":{
         "annotations":{
             "label":"walking",
             "segments":[
@@ -111,7 +111,7 @@
         "subset":"train",
         "url":"IMG3154.mp4"
     },
-    "area_0005":{
+    "anno_0005":{
         "annotations":{
             "label":"sitting",
             "segments":[
@@ -139,7 +139,7 @@
         "subset":"train",
         "url":"IMG3154.mp4"
     },
-    "area_0006":{
+    "anno_0006":{
         "annotations":{
             "label":"walking",
             "segments":[
