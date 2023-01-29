@@ -9,3 +9,5 @@ https://github.com/v-iashin/video_features
 'tsnecuda' is required for 'generate.py' to work in this repository.
 We recommend conda for the operating environment.
 https://github.com/CannyLab/tsne-cuda
+***
+This repository requires NVIDIA GPU and CUDA11.3 environment. I haven't tested it in other environments.
