@@ -10,10 +10,10 @@ git clone https://github.com/v-iashin/video_features.git
 git clone https://github.com/minor0419/generate_tsne.git  
 cd generate_tsne  
 ***  
-Copy directorys from video_features to generate_tsne
-cp -r ../video_features/models .
-cp -r ../video_features/utils .
-cp -r ../video_features/configs .
+Copy directorys from video_features to generate_tsne  
+cp -r ../video_features/models .  
+cp -r ../video_features/utils .  
+cp -r ../video_features/configs .  
 ***  
 Make conda enviroment
 conda env create conda_env_torch_zoo.yml  
