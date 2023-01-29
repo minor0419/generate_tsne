@@ -5,7 +5,7 @@ bash Miniconda3-latest-Linux-x86_64.sh
 ~/miniconda3/bin/conda init bash  
 source ~/.bashrc  
 ***  
-Clone two repository
+Clone two repository  
 git clone https://github.com/v-iashin/video_features.git
 git clone https://github.com/minor0419/generate_tsne.git
 cd generate_tsne  
