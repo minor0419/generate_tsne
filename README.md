@@ -10,4 +10,6 @@ https://github.com/v-iashin/video_features
 We recommend conda for the operating environment.
 https://github.com/CannyLab/tsne-cuda
 ***
-This repository requires NVIDIA GPU and CUDA11.3 environment. I haven't tested it in other environments.
+This repository requires NVIDIA GPU and CUDA11.3 environment. 
+I haven't tested it in other environments.
+The NVIDIA GPU I tested is the RTX4080.
