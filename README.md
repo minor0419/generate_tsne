@@ -1,5 +1,6 @@
 # generate_tsne
 json files and movie files convert to the t-sne figures.  
+Label file is needed.(label_define.json)  
 ***
 This repository is a copy of the following repository, so please follow the repository below for usage.  
 The only file unique to this repository is 'generate_tsne.py'.  
