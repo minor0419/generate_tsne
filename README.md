@@ -1,7 +1,6 @@
 # generate_tsne
 json files and movie files convert to the t-sne figures.  (Using i3D features)  
 Label file is needed.(label_define.json)  
-I3D pre-trained model was taken from `https://github.com/hassony2/kinetics_i3d_pytorch`　　
 ***    
 This repository is a copy of the following repository, so please follow the repository below for usage.  
 The only file unique to this repository is 'generate_tsne.py'.  
