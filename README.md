@@ -14,3 +14,5 @@ https://github.com/CannyLab/tsne-cuda
 This repository requires NVIDIA GPU and CUDA11.3 environment.   
 I haven't tested it in other environments.  
 The NVIDIA GPU I tested is the RTX4080.  
+***  
+I am in the test video.  
