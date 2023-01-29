@@ -36,7 +36,7 @@ Exit
 Enter  
 ![](media/image4.jpeg)
 
-\*\*\*  
+***  
 # Results  
 ![](media/image5.png) ![](media/image6.png)
 
