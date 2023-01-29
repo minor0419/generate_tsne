@@ -5,3 +5,6 @@ This repository is a copy of the following repository, so please follow the repo
 The only file unique to this repository is 'generate.py'.
 ***
 https://github.com/v-iashin/video_features
+***
+'tsnecuda' is required for 'generate.py' to work in this repository.
+We recommend conda for the operating environment.
