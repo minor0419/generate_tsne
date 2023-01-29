@@ -15,7 +15,7 @@ cp -r ../video_features/models .
 cp -r ../video_features/utils .  
 cp -r ../video_features/configs .  
 ***  
-Make conda enviroment
+Make conda enviroment  
 conda env create conda_env_torch_zoo.yml  
 conda activate torch_zoo  
 pip install matplotlab  
