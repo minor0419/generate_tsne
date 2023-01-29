@@ -1,0 +1,18 @@
+{
+  "label": {
+    "0": "walking",
+    "1": "sitting",
+    "2": "exit",
+    "3": "enter"
+  },
+  "file_list": {},
+  "stats": {
+    "train": 0,
+    "val": 0,
+    "test": 0,
+    "n_file": 0,
+    "n_unit": 0,
+    "label_count": {}
+  },
+  "date": "2023/01/29/12:59:35"
+}
