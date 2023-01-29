@@ -18,13 +18,23 @@ I am in the test video.
 
 \*\*\*
 # Input movie and results  
-WalkingSitting
-![](media/image1.jpeg) ![](media/image2.jpeg)
-ExitEnter
-![](media/image3.jpeg) ![](media/image4.jpeg)
+Walking  
+![](media/image1.jpeg)
 
-\*\*\*
-# Results
+Sitting  
+![](media/image2.jpeg)
+
+
+
+
+Exit  
+![](media/image3.jpeg)
+
+Enter  
+![](media/image4.jpeg)
+
+\*\*\*  
+# Results  
 ![](media/image5.png) ![](media/image6.png)
 
 
