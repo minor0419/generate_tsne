@@ -2,4 +2,8 @@
  bash Miniconda3-latest-Linux-x86_64.sh
  ~/miniconda3/bin/conda init bash
  source ~/.bashrc
- git clone 
+ git clone https://github.com/minor0419/generate_tsne.git
+ cd generate_tsne
+ conda env create conda_env_torch_zoo.yml
+ conda activate torch_zoo
+ 
