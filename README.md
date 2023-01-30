@@ -20,7 +20,7 @@ The NVIDIA GPU I tested is the RTX4080.
 I am in the test video.  
 
 ***  
-# Input movie and results  
+# Input movies  
 Walking  
 ![](media/image1.jpeg)
 
