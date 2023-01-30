@@ -79,7 +79,7 @@ def main(args_main):
 
     torch.cuda.get_device_name(0)
 
-    torch.cuda.set_per_process_memory_fraction(0.1, 0)
+    #torch.cuda.set_per_process_memory_fraction(0.1, 0)
     torch.cuda.empty_cache()
     total_memory = torch.cuda.get_device_properties(0).total_memory
     # less than 0.5 will be ok:
