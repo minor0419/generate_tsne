@@ -14,7 +14,7 @@ import tsnecuda
 import argparse
 
 
-def generate_tsne(args_main, name):
+def generate_tsne(args, name):
     label_file = open('./label_define.json')
     label_dict = json.load(label_file)
     index_dict_value = list(label_dict)
